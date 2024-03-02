@@ -1,0 +1,31 @@
+Number of developers in both top 30 PageRank and Degree Centrality lists: 28
+Unique communities detected: 34
+Overlap nodes representing particularly influential developers:
+- sophiebits
+- ronenhamias
+- mcanthony
+- addyosmani
+- jeresig
+- sdras
+- phodal
+- rfthusn
+- antirez
+- daimajia
+- JonnyBanana
+- shayan-taheri
+- RubyLouvre
+- mdo
+- kauegimenes
+- ajsb85
+- gabrielpconceicao
+- pengliheng
+- sibelius
+- nfultz
+- isaacs
+- nelsonic
+- kentcdodds
+- dalinhuang99
+- mbostock
+- SuriyaaKudoIsc
+- getify
+- Bunlong
